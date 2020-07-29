@@ -1,3 +1,3 @@
 # discord-test
-My name is waiwai
+My name is waiwai2
 
